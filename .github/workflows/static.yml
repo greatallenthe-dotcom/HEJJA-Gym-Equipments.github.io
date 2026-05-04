@@ -1,6 +1,8 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
-title: HEJJA GYM Equipments
+theme: jekyll-theme-minimal
+title: HEJJA Gym Equipments homepage
+description: Bookmark this to keep an eye on my project updates!
 on:
   # Runs on pushes targeting the default branch
   push:
